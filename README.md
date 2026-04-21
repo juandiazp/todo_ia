@@ -37,3 +37,15 @@ Task {
   createdAt: timestamp,
   dueDate: timestamp (optional)
 }
+
+---
+##  Entregables
+
+Se incluye una carpeta con los recursos del proyecto:
+
+📱 APK de la aplicación (build listo para instalación)
+📄 Manual de usuario
+📘 Documentación adicional
+
+🔗 Acceso:
+https://drive.google.com/drive/folders/1kId5fC49kqLKu2MGAki41b2rH9sNlWl5?usp=sharing
