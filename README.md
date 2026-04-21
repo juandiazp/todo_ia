@@ -37,6 +37,7 @@ Task {
   createdAt: timestamp,
   dueDate: timestamp (optional)
 }
+```
 
 ---
 ##  Entregables
