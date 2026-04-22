@@ -4,7 +4,8 @@ import 'package:http/http.dart' as http;
 class AIService {
   // Aquí pondrás la URL que nos dé n8n más adelante
   final String webhookUrl =
-      "https://juan25.app.n8n.cloud/webhook-test/ia-notas";
+      // "https://juan25.app.n8n.cloud/webhook-test/ia-notas";
+      "https://juan25.app.n8n.cloud/webhook/ia-notas";
 
   Future<void> processNoteIA(
     String noteId,
